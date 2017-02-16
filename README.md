@@ -1,1 +1,1 @@
-# LambdaSchool
+# LambdaSchool Mini Bootcamp
